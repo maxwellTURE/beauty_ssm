@@ -1,4 +1,6 @@
 #优雅的SSM架构(Spring+SpringMVC+Mybatis）
+-------------------作为SSM 模板-----------------------
+- 項目源地址 https://github.com/wosyingjun/beauty_ssm
 - Maven
 - Spring（IOC DI AOP 声明式事务处理）
 - SpringMVC（支持Restful风格）
